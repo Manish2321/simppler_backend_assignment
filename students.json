@@ -1,0 +1,14 @@
+[
+  {
+    "fullName": "manish tyagi",
+    "age": 23,
+    "dateOfBirth": "2001-01-23",
+    "className": "7",
+    "subjects": {
+      "science": 65,
+      "english": 50
+    },
+    "percentage": 57.5,
+    "grade": "D"
+  }
+]
